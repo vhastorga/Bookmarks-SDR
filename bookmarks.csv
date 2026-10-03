@@ -1,0 +1,97 @@
+# Tag name          ;  color
+AM                  ; #c0c0c0
+Aeronautica         ; #ff4500
+CABA                ; #4682b4
+Clasica             ; #ffff00
+Comunitaria         ; #ff8c00
+Cultura             ; #8a2be2
+Deportes            ; #32cd32
+HamRadio            ; #9400d3
+La Plata            ; #20b2aa
+Maritimo            ; #008080
+Noticias            ; #1e90ff
+Pop                 ; #ff69b4
+Publica             ; #708090
+Rock                ; #aa557f
+Rock Nacional       ; #100696
+
+# Frequency ; Name                                     ; Modulation          ;  Bandwidth; Tags
+      590000; Radio Continental                        ; AM                  ;      10000; AM,Noticias,CABA
+      630000; Radio Rivadavia                          ; AM                  ;      10000; AM,Noticias,CABA
+      710000; Radio 10                                 ; AM                  ;      10000; AM,CABA
+      750000; AM 750                                   ; AM                  ;      10000; AM,Noticias,CABA
+      790000; Radio Mitre                              ; AM                  ;      10000; AM,Noticias,CABA
+      870000; Radio Nacional                           ; AM                  ;      10000; AM,Publica,CABA
+      910000; La Red                                   ; AM                  ;      10000; AM,Deportes,CABA
+      950000; CNN Radio Argentina                      ; AM                  ;      10000; AM,Noticias,CABA
+     1070000; El Destape                               ; AM                  ;      10000; AM,Noticias,CABA
+    87500000; FM Soldados                              ; WFM (stereo)        ;     160000; Publica,CABA
+    87900000; Radio UBA                                ; WFM (stereo)        ;     160000; Cultura,CABA
+    88100000; FM Boedo                                 ; WFM (stereo)        ;     160000; Comunitaria,CABA
+    88300000; Radio Sur                                ; WFM (stereo)        ;     160000; Comunitaria,CABA
+    88500000; Radio Maria                              ; WFM (stereo)        ;     160000; Comunitaria,CABA
+    88700000; La Tribu                                 ; WFM (stereo)        ;     160000; Comunitaria,CABA
+    89100000; Radio Malena                             ; WFM (stereo)        ;     160000; Cultura,CABA
+    89500000; Radio Porteña                            ; WFM (stereo)        ;     160000; Comunitaria,CABA
+    89900000; Radio Con Vos                            ; WFM (stereo)        ;     160000; Noticias,CABA
+    90100000; FM La Boca                               ; WFM (stereo)        ;     160000; Comunitaria,CABA
+    90300000; Delta 90.3                               ; WFM (stereo)        ;     160000; Pop,CABA
+    91100000; Radio Uno                                ; WFM (stereo)        ;     160000; Pop,CABA
+    91900000; Radio Amadeus                            ; WFM (stereo)        ;     160000; Clasica,CABA
+    92100000; Vorterix                                 ; WFM (stereo)        ;     160000; Rock,CABA
+    92100000; Red 92                                   ; WFM (stereo)        ;     160000; Pop,La Plata
+    92300000; La Radio (FM 92.3)                       ; WFM (stereo)        ;     160000; Pop,CABA
+    92700000; La 2x4 (FM Tango)                        ; WFM (stereo)        ;     160000; Cultura,Publica,CABA
+    93100000; Radio Late                               ; WFM (stereo)        ;     160000; Deportes,Noticias,CABA
+    93300000; BitBox FM                                ; WFM (stereo)        ;     160000; Rock,Pop,CABA
+    93500000; FM Fuego                                 ; WFM (stereo)        ;     160000; Pop,CABA
+    94100000; Radio Asamblea                           ; WFM (stereo)        ;     160000; Comunitaria,CABA
+    94300000; Radio Disney                             ; WFM (stereo)        ;     160000; Pop,CABA
+    94700000; Mucha Radio                              ; WFM (stereo)        ;     160000; Pop,CABA
+    95100000; Metro 95.1                               ; WFM (stereo)        ;     160000; Pop,CABA
+    95500000; Concepto FM                              ; WFM (stereo)        ;     160000; Noticias,CABA
+    95900000; Rock&Pop                                 ; WFM (mono)          ;     142000; Rock
+    96300000; Radio Hi                                 ; WFM (mono)          ;     142000; Rock
+    96700000; Nacional                                 ; WFM (stereo)        ;     160000; Clasica
+    97100000; Radio RQP                                ; WFM (stereo)        ;     160000; Rock,CABA
+    97500000; Vale                                     ; WFM (mono)          ;     160000; Rock
+    97900000; Radio Cultura                            ; WFM (stereo)        ;     160000; Cultura,CABA
+    98300000; Mega                                     ; WFM (stereo)        ;     160000; Rock Nacional
+    98700000; La 100                                   ; WFM (stereo)        ;     160000; Rock
+    99100000; Cadena 3                                 ; WFM (stereo)        ;     160000; Rock
+    99900000; La 100 (99.9)                            ; WFM (stereo)        ;     160000; Pop,CABA
+   100100000; Radio La Colifata                        ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   100300000; FM Fenix                                 ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   100500000; Radio Maria (100.5)                      ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   100700000; Blue 100.7                               ; WFM (stereo)        ;     160000; Pop,CABA
+   101500000; La Pop                                   ; WFM (stereo)        ;     160000; Pop,CABA
+   101700000; Radio Joven                              ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   101900000; Radio Horizonte                          ; WFM (stereo)        ;     160000; Pop,CABA
+   102300000; Aspen 102.3                              ; WFM (stereo)        ;     160000; Clasica,CABA
+   102700000; Radio Amep                               ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   103100000; DSports Radio                            ; WFM (stereo)        ;     160000; Deportes,Noticias,CABA
+   103700000; Radio One                                ; WFM (stereo)        ;     160000; Rock,CABA
+   104100000; Radio Baires                             ; WFM (stereo)        ;     160000; Pop,CABA
+   104300000; Urbana Play                              ; WFM (stereo)        ;     160000; Pop,CABA
+   104500000; Radio Maria Casanova                     ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   104900000; FM La Nacion                             ; WFM (stereo)        ;     160000; Noticias,CABA
+   105100000; Radio Malvinas                           ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   105500000; Los 40                                   ; WFM (stereo)        ;     160000; Pop,CABA
+   105900000; Radio e2                                 ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   106300000; Red Aleluya                              ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   106700000; Radio Millenium                          ; WFM (stereo)        ;     160000; Noticias,CABA
+   107300000; Radio El Sol                             ; WFM (stereo)        ;     160000; Rock,CABA
+   107500000; FM Mas                                   ; WFM (stereo)        ;     160000; Comunitaria,CABA
+   107700000; Radio Berlin                             ; WFM (stereo)        ;     160000; Pop,CABA
+   107900000; El Observador 107.9                      ; WFM (stereo)        ;     160000; Noticias,CABA
+   118850000; Aeroparque Torre/Aproximacion (SABE_TWR) ; AM                  ;      25000; Aeronautica,CABA
+   118900000; El Palomar Torre (SADP_TWR)              ; AM                  ;      25000; Aeronautica
+   119900000; Ezeiza Torre (SAEZ_TWR)                  ; AM                  ;      25000; Aeronautica
+   121500000; Emergencia Aeronautica Mundial (Guardia) ; AM                  ;      25000; Aeronautica
+   121700000; Ezeiza Rodaje (SAEZ_GND)                 ; AM                  ;      25000; Aeronautica
+   121900000; Aeroparque Rodaje (SABE_GND)             ; AM                  ;      25000; Aeronautica,CABA
+   125900000; Baires Control / Ezeiza Ctr (SAEZ_CTR)   ; AM                  ;      25000; Aeronautica
+   129300000; Aeroparque Autorizaciones (SABE_DEL)     ; AM                  ;      25000; Aeronautica,CABA
+   129500000; Buenos Aires TMA Aproximacion (SABA_APP) ; AM                  ;      25000; Aeronautica
+   146520000; Llamada Simplex FM Region 2 (LU)         ; NFM                 ;      12500; HamRadio
+   156800000; Canal 16 Marina (Prefectura Naval)       ; NFM                 ;      12500; Maritimo

@@ -1,0 +1,406 @@
+{
+    "bookmarkDisplayMode": 1,
+    "lists": {
+        "General": {
+            "bookmarks": {
+                "AM 750": {
+                    "bandwidth": 10000.0,
+                    "frequency": 750000.0,
+                    "mode": 2
+                },
+                "Aeroparque Autorizaciones (SABE_DEL)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 129300000.0,
+                    "mode": 2
+                },
+                "Aeroparque Rodaje (SABE_GND)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 121900000.0,
+                    "mode": 2
+                },
+                "Aeroparque Torre/Aproximacion (SABE_TWR)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 118850000.0,
+                    "mode": 2
+                },
+                "Aspen 102.3": {
+                    "bandwidth": 160000.0,
+                    "frequency": 102300000.0,
+                    "mode": 1
+                },
+                "Baires Control / Ezeiza Ctr (SAEZ_CTR)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 125900000.0,
+                    "mode": 2
+                },
+                "BitBox FM": {
+                    "bandwidth": 160000.0,
+                    "frequency": 93300000.0,
+                    "mode": 1
+                },
+                "Blue 100.7": {
+                    "bandwidth": 160000.0,
+                    "frequency": 100700000.0,
+                    "mode": 1
+                },
+                "Buenos Aires TMA Aproximacion (SABA_APP)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 129500000.0,
+                    "mode": 2
+                },
+                "CNN Radio Argentina": {
+                    "bandwidth": 10000.0,
+                    "frequency": 950000.0,
+                    "mode": 2
+                },
+                "Cadena 3": {
+                    "bandwidth": 160000.0,
+                    "frequency": 99100000.0,
+                    "mode": 1
+                },
+                "Canal 16 Marina (Prefectura Naval)": {
+                    "bandwidth": 12500.0,
+                    "frequency": 156800000.0,
+                    "mode": 0
+                },
+                "Concepto FM": {
+                    "bandwidth": 160000.0,
+                    "frequency": 95500000.0,
+                    "mode": 1
+                },
+                "DSports Radio": {
+                    "bandwidth": 160000.0,
+                    "frequency": 103100000.0,
+                    "mode": 1
+                },
+                "Delta 90.3": {
+                    "bandwidth": 160000.0,
+                    "frequency": 90300000.0,
+                    "mode": 1
+                },
+                "El Destape": {
+                    "bandwidth": 10000.0,
+                    "frequency": 1070000.0,
+                    "mode": 2
+                },
+                "El Observador 107.9": {
+                    "bandwidth": 160000.0,
+                    "frequency": 107900000.0,
+                    "mode": 1
+                },
+                "El Palomar Torre (SADP_TWR)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 118900000.0,
+                    "mode": 2
+                },
+                "Emergencia Aeronautica Mundial (Guardia)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 121500000.0,
+                    "mode": 2
+                },
+                "Ezeiza Rodaje (SAEZ_GND)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 121700000.0,
+                    "mode": 2
+                },
+                "Ezeiza Torre (SAEZ_TWR)": {
+                    "bandwidth": 25000.0,
+                    "frequency": 119900000.0,
+                    "mode": 2
+                },
+                "FM Boedo": {
+                    "bandwidth": 160000.0,
+                    "frequency": 88100000.0,
+                    "mode": 1
+                },
+                "FM Fenix": {
+                    "bandwidth": 160000.0,
+                    "frequency": 100300000.0,
+                    "mode": 1
+                },
+                "FM Fuego": {
+                    "bandwidth": 160000.0,
+                    "frequency": 93500000.0,
+                    "mode": 1
+                },
+                "FM La Boca": {
+                    "bandwidth": 160000.0,
+                    "frequency": 90100000.0,
+                    "mode": 1
+                },
+                "FM La Nacion": {
+                    "bandwidth": 160000.0,
+                    "frequency": 104900000.0,
+                    "mode": 1
+                },
+                "FM Mas": {
+                    "bandwidth": 160000.0,
+                    "frequency": 107500000.0,
+                    "mode": 1
+                },
+                "FM Soldados": {
+                    "bandwidth": 160000.0,
+                    "frequency": 87500000.0,
+                    "mode": 1
+                },
+                "La 100": {
+                    "bandwidth": 160000.0,
+                    "frequency": 98700000.0,
+                    "mode": 1
+                },
+                "La 100 (99.9)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 99900000.0,
+                    "mode": 1
+                },
+                "La 2x4 (FM Tango)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 92700000.0,
+                    "mode": 1
+                },
+                "La Pop": {
+                    "bandwidth": 160000.0,
+                    "frequency": 101500000.0,
+                    "mode": 1
+                },
+                "La Radio (FM 92.3)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 92300000.0,
+                    "mode": 1
+                },
+                "La Red": {
+                    "bandwidth": 10000.0,
+                    "frequency": 910000.0,
+                    "mode": 2
+                },
+                "La Tribu": {
+                    "bandwidth": 160000.0,
+                    "frequency": 88700000.0,
+                    "mode": 1
+                },
+                "Llamada Simplex FM Region 2 (LU)": {
+                    "bandwidth": 12500.0,
+                    "frequency": 146520000.0,
+                    "mode": 0
+                },
+                "Los 40": {
+                    "bandwidth": 160000.0,
+                    "frequency": 105500000.0,
+                    "mode": 1
+                },
+                "Mega": {
+                    "bandwidth": 160000.0,
+                    "frequency": 98300000.0,
+                    "mode": 1
+                },
+                "Metro 95.1": {
+                    "bandwidth": 160000.0,
+                    "frequency": 95100000.0,
+                    "mode": 1
+                },
+                "Mucha Radio": {
+                    "bandwidth": 160000.0,
+                    "frequency": 94700000.0,
+                    "mode": 1
+                },
+                "Nacional": {
+                    "bandwidth": 160000.0,
+                    "frequency": 96700000.0,
+                    "mode": 1
+                },
+                "Radio 10": {
+                    "bandwidth": 10000.0,
+                    "frequency": 710000.0,
+                    "mode": 2
+                },
+                "Radio Amadeus": {
+                    "bandwidth": 160000.0,
+                    "frequency": 91900000.0,
+                    "mode": 1
+                },
+                "Radio Amep": {
+                    "bandwidth": 160000.0,
+                    "frequency": 102700000.0,
+                    "mode": 1
+                },
+                "Radio Asamblea": {
+                    "bandwidth": 160000.0,
+                    "frequency": 94100000.0,
+                    "mode": 1
+                },
+                "Radio Baires": {
+                    "bandwidth": 160000.0,
+                    "frequency": 104100000.0,
+                    "mode": 1
+                },
+                "Radio Berlin": {
+                    "bandwidth": 160000.0,
+                    "frequency": 107700000.0,
+                    "mode": 1
+                },
+                "Radio Con Vos": {
+                    "bandwidth": 160000.0,
+                    "frequency": 89900000.0,
+                    "mode": 1
+                },
+                "Radio Continental": {
+                    "bandwidth": 10000.0,
+                    "frequency": 590000.0,
+                    "mode": 2
+                },
+                "Radio Cultura": {
+                    "bandwidth": 160000.0,
+                    "frequency": 97900000.0,
+                    "mode": 1
+                },
+                "Radio Disney": {
+                    "bandwidth": 160000.0,
+                    "frequency": 94300000.0,
+                    "mode": 1
+                },
+                "Radio El Sol": {
+                    "bandwidth": 160000.0,
+                    "frequency": 107300000.0,
+                    "mode": 1
+                },
+                "Radio Hi": {
+                    "bandwidth": 142000.0,
+                    "frequency": 96300000.0,
+                    "mode": 1
+                },
+                "Radio Horizonte": {
+                    "bandwidth": 160000.0,
+                    "frequency": 101900000.0,
+                    "mode": 1
+                },
+                "Radio Joven": {
+                    "bandwidth": 160000.0,
+                    "frequency": 101700000.0,
+                    "mode": 1
+                },
+                "Radio La Colifata": {
+                    "bandwidth": 160000.0,
+                    "frequency": 100100000.0,
+                    "mode": 1
+                },
+                "Radio Late": {
+                    "bandwidth": 160000.0,
+                    "frequency": 93100000.0,
+                    "mode": 1
+                },
+                "Radio Malena": {
+                    "bandwidth": 160000.0,
+                    "frequency": 89100000.0,
+                    "mode": 1
+                },
+                "Radio Malvinas": {
+                    "bandwidth": 160000.0,
+                    "frequency": 105100000.0,
+                    "mode": 1
+                },
+                "Radio Maria": {
+                    "bandwidth": 160000.0,
+                    "frequency": 88500000.0,
+                    "mode": 1
+                },
+                "Radio Maria (100.5)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 100500000.0,
+                    "mode": 1
+                },
+                "Radio Maria Casanova": {
+                    "bandwidth": 160000.0,
+                    "frequency": 104500000.0,
+                    "mode": 1
+                },
+                "Radio Millenium": {
+                    "bandwidth": 160000.0,
+                    "frequency": 106700000.0,
+                    "mode": 1
+                },
+                "Radio Mitre": {
+                    "bandwidth": 10000.0,
+                    "frequency": 790000.0,
+                    "mode": 2
+                },
+                "Radio Nacional": {
+                    "bandwidth": 10000.0,
+                    "frequency": 870000.0,
+                    "mode": 2
+                },
+                "Radio One": {
+                    "bandwidth": 160000.0,
+                    "frequency": 103700000.0,
+                    "mode": 1
+                },
+                "Radio Porteña": {
+                    "bandwidth": 160000.0,
+                    "frequency": 89500000.0,
+                    "mode": 1
+                },
+                "Radio RQP": {
+                    "bandwidth": 160000.0,
+                    "frequency": 97100000.0,
+                    "mode": 1
+                },
+                "Radio Rivadavia": {
+                    "bandwidth": 10000.0,
+                    "frequency": 630000.0,
+                    "mode": 2
+                },
+                "Radio Sur": {
+                    "bandwidth": 160000.0,
+                    "frequency": 88300000.0,
+                    "mode": 1
+                },
+                "Radio UBA": {
+                    "bandwidth": 160000.0,
+                    "frequency": 87900000.0,
+                    "mode": 1
+                },
+                "Radio Uno": {
+                    "bandwidth": 160000.0,
+                    "frequency": 91100000.0,
+                    "mode": 1
+                },
+                "Radio e2": {
+                    "bandwidth": 160000.0,
+                    "frequency": 105900000.0,
+                    "mode": 1
+                },
+                "Red 92": {
+                    "bandwidth": 160000.0,
+                    "frequency": 92100000.0,
+                    "mode": 1
+                },
+                "Red Aleluya": {
+                    "bandwidth": 160000.0,
+                    "frequency": 106300000.0,
+                    "mode": 1
+                },
+                "Rock&Pop": {
+                    "bandwidth": 142000.0,
+                    "frequency": 95900000.0,
+                    "mode": 1
+                },
+                "Urbana Play": {
+                    "bandwidth": 160000.0,
+                    "frequency": 104300000.0,
+                    "mode": 1
+                },
+                "Vale": {
+                    "bandwidth": 160000.0,
+                    "frequency": 97500000.0,
+                    "mode": 1
+                },
+                "Vorterix": {
+                    "bandwidth": 160000.0,
+                    "frequency": 92100000.0,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
+        }
+    },
+    "selectedList": "General"
+}
