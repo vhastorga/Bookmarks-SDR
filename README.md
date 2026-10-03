@@ -28,14 +28,14 @@ El objetivo del proyecto es **aportar y disponibilizar la radio SDR en esta zona
 
 Este repositorio fue creado a partir de un **barrido/escaneo de frecuencias con [RTLSDR Scanner](https://github.com/eartoearoak/rtlsdr-scanner)** sobre la zona de la Ciudad Autónoma de Buenos Aires y su área metropolitana, y fue organizado, depurado y documentado con la asistencia de **Gemini 3.8 Flash**.
 
-El resultado son **dos archivos equivalentes** —uno por programa— con **79 estaciones**:
+El resultado son **dos archivos equivalentes** —uno por programa— con **80 estaciones**:
 
 | Programa | Formato | Archivo |
 |---|---|---|
 | **GQRX** | CSV con etiquetas (tags) y colores | [`bookmarks.csv`](./bookmarks.csv) |
 | **SDR++** | JSON (plugin *Frequency Manager*) | [`frequency_manager_config.json`](./frequency_manager_config.json) |
 
-Ambos archivos contienen **exactamente las mismas 79 frecuencias** (verificado): AM broadcast, FM stereo/mono, tráfico aeronáutico, canal marítimo y simplex de radioaficionados, todos con su modo de demodulación y ancho de banda recomendados.
+Ambos archivos contienen **exactamente las mismas 80 frecuencias** (verificado): AM broadcast, FM stereo/mono, tráfico aeronáutico, canal marítimo y simplex de radioaficionados, todos con su modo de demodulación y ancho de banda recomendados.
 
 ---
 
@@ -50,8 +50,8 @@ Ambos archivos contienen **exactamente las mismas 79 frecuencias** (verificado):
 
 | Archivo | Formato | Cant. de entradas | Destino |
 |---|---|---|---|
-| `bookmarks.csv` | CSV (`;` como separador) | 79 frecuencias + 15 tags con colores | GQRX |
-| `frequency_manager_config.json` | JSON | 79 frecuencias (lista `General`) | SDR++ |
+| `bookmarks.csv` | CSV (`;` como separador) | 80 frecuencias + 15 tags con colores | GQRX |
+| `frequency_manager_config.json` | JSON | 80 frecuencias (lista `General`) | SDR++ |
 
 ---
 
@@ -59,8 +59,8 @@ Ambos archivos contienen **exactamente las mismas 79 frecuencias** (verificado):
 
 | Banda | Rango | Cantidad | Modo | Ejemplos |
 |---|---|---|---|---|
-| **Ondas medias (AM)** | 540 – 1 070 kHz | 9 | AM · 10 kHz | Radio Continental 590, Rivadavia 630, Mitre 790, Nacional 870 |
-| **FM broadcast** | 87,5 – 107,9 MHz | 59 | WFM estéreo/mono · 142–160 kHz | Rock&Pop 95.9, La 100 98.7, Metro 95.1, Vorterix 92.1 |
+| **Ondas medias (AM)** | 590 – 1 070 kHz | 9 | AM · 10 kHz | Radio Continental 590, Rivadavia 630, Mitre 790, Nacional 870 |
+| **FM broadcast** | 87,5 – 107,9 MHz | 60 | WFM estéreo/mono · 142–160 kHz | Rock&Pop 95.9, La 100 99.9, Metro 95.1, Vorterix 92.1 |
 | **Aeronáutica (airband)** | 118,85 – 129,5 MHz | 9 | AM · 25 kHz | Aeroparque TWR 118.85, Ezeiza TWR 119.9, Ezeiza CTR 125.9, Guardia 121.5 |
 | **Marítimo** | 156,8 MHz | 1 | NFM · 12,5 kHz | Canal 16 — Prefectura Naval |
 | **Radioaficionados** | 146,52 MHz | 1 | NFM · 12,5 kHz | Simplex FM Región 2 (LU) |
@@ -89,7 +89,7 @@ Ambos archivos contienen **exactamente las mismas 79 frecuencias** (verificado):
    - **Linux:** `~/.config/sdrpp/`
 3. **Hacé una copia de seguridad** del `frequency_manager_config.json` existente.
 4. **Reemplazá** el archivo por el de este repositorio (o fusioná la lista `"General"` con tus listas existentes).
-5. **Reiniciá SDR++** y abrí el panel **Frequency Manager**: vas a ver la lista `General` con las 79 estaciones. Un clic sintoniza la frecuencia y aplica modo y ancho de banda automáticamente.
+5. **Reiniciá SDR++** y abrí el panel **Frequency Manager**: vas a ver la lista `General` con las 80 estaciones. Un clic sintoniza la frecuencia y aplica modo y ancho de banda automáticamente.
 
 > **Tip:** la lista queda visible sobre el waterfall (`"showOnWaterfall": true`), lo que permite saltar entre estaciones directamente desde el espectro.
 
