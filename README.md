@@ -1,4 +1,4 @@
-# 📡 Bookmarks RTL-SDR — AM/FM Buenos Aires (CABA)
+# 📡 Bookmarks-SDR — AM/FM Buenos Aires (CABA)
 
 Repositorio con los **bookmarks (marcadores) de frecuencias de radios y emisoras argentinas visibles desde la Ciudad Autónoma de Buenos Aires**, listos para usar en **GQRX** y **SDR++**, y perfectamente adaptables a cualquier otro receptor SDR (SDR#, HDSDR, CubicSDR, SDRangel, etc.).
 
