@@ -108,9 +108,19 @@
                     "frequency": 119900000.0,
                     "mode": 2
                 },
+                "FM Blackie (89.1 ex Malena)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 89100000.0,
+                    "mode": 1
+                },
                 "FM Boedo": {
                     "bandwidth": 160000.0,
                     "frequency": 88100000.0,
+                    "mode": 1
+                },
+                "FM Federal": {
+                    "bandwidth": 166844.91978609626,
+                    "frequency": 99500000.0,
                     "mode": 1
                 },
                 "FM Fenix": {
@@ -128,14 +138,19 @@
                     "frequency": 90100000.0,
                     "mode": 1
                 },
-                "FM La Nacion": {
+                "FM Like / Vorterix (97.1 ex RQP)": {
                     "bandwidth": 160000.0,
-                    "frequency": 104900000.0,
+                    "frequency": 97100000.0,
                     "mode": 1
                 },
-                "FM Mas": {
+                "FM Mas 107.5": {
                     "bandwidth": 160000.0,
                     "frequency": 107500000.0,
+                    "mode": 1
+                },
+                "FM Reconquista / Portena (89.5)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 89500000.0,
                     "mode": 1
                 },
                 "FM Soldados": {
@@ -143,9 +158,14 @@
                     "frequency": 87500000.0,
                     "mode": 1
                 },
-                "La 100": {
+                "FM Symphony / Radio Uno (91.1)": {
                     "bandwidth": 160000.0,
-                    "frequency": 98700000.0,
+                    "frequency": 91100000.0,
+                    "mode": 1
+                },
+                "LN 104.9 + Musica": {
+                    "bandwidth": 160000.0,
+                    "frequency": 104900000.0,
                     "mode": 1
                 },
                 "La 100 (99.9)": {
@@ -158,12 +178,7 @@
                     "frequency": 92700000.0,
                     "mode": 1
                 },
-                "La Pop": {
-                    "bandwidth": 160000.0,
-                    "frequency": 101500000.0,
-                    "mode": 1
-                },
-                "La Radio (FM 92.3)": {
+                "La Radio / FM Luzu (92.3)": {
                     "bandwidth": 160000.0,
                     "frequency": 92300000.0,
                     "mode": 1
@@ -203,9 +218,9 @@
                     "frequency": 94700000.0,
                     "mode": 1
                 },
-                "Nacional": {
+                "Pop Radio 101.5": {
                     "bandwidth": 160000.0,
-                    "frequency": 96700000.0,
+                    "frequency": 101500000.0,
                     "mode": 1
                 },
                 "Radio 10": {
@@ -218,7 +233,7 @@
                     "frequency": 91900000.0,
                     "mode": 1
                 },
-                "Radio Amep": {
+                "Radio Amep (102.7)": {
                     "bandwidth": 160000.0,
                     "frequency": 102700000.0,
                     "mode": 1
@@ -228,12 +243,12 @@
                     "frequency": 94100000.0,
                     "mode": 1
                 },
-                "Radio Baires": {
+                "Radio Baires / La Voz (104.1)": {
                     "bandwidth": 160000.0,
                     "frequency": 104100000.0,
                     "mode": 1
                 },
-                "Radio Berlin": {
+                "Radio Berlin (107.7)": {
                     "bandwidth": 160000.0,
                     "frequency": 107700000.0,
                     "mode": 1
@@ -263,22 +278,17 @@
                     "frequency": 107300000.0,
                     "mode": 1
                 },
-                "Radio Hi": {
-                    "bandwidth": 142000.0,
-                    "frequency": 96300000.0,
-                    "mode": 1
-                },
                 "Radio Horizonte": {
                     "bandwidth": 160000.0,
                     "frequency": 101900000.0,
                     "mode": 1
                 },
-                "Radio Joven": {
-                    "bandwidth": 160000.0,
-                    "frequency": 101700000.0,
+                "Radio Jai (96.3)": {
+                    "bandwidth": 142000.0,
+                    "frequency": 96300000.0,
                     "mode": 1
                 },
-                "Radio La Colifata": {
+                "Radio La Colifata (100.1)": {
                     "bandwidth": 160000.0,
                     "frequency": 100100000.0,
                     "mode": 1
@@ -286,11 +296,6 @@
                 "Radio Late": {
                     "bandwidth": 160000.0,
                     "frequency": 93100000.0,
-                    "mode": 1
-                },
-                "Radio Malena": {
-                    "bandwidth": 160000.0,
-                    "frequency": 89100000.0,
                     "mode": 1
                 },
                 "Radio Malvinas": {
@@ -308,12 +313,12 @@
                     "frequency": 100500000.0,
                     "mode": 1
                 },
-                "Radio Maria Casanova": {
+                "Radio Maria Casanova (104.5)": {
                     "bandwidth": 160000.0,
                     "frequency": 104500000.0,
                     "mode": 1
                 },
-                "Radio Millenium": {
+                "Radio Milenium (106.7)": {
                     "bandwidth": 160000.0,
                     "frequency": 106700000.0,
                     "mode": 1
@@ -323,24 +328,29 @@
                     "frequency": 790000.0,
                     "mode": 2
                 },
-                "Radio Nacional": {
+                "Radio Nacional (AM 870)": {
                     "bandwidth": 10000.0,
                     "frequency": 870000.0,
                     "mode": 2
+                },
+                "Radio Nacional Clasica (96.7)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 96700000.0,
+                    "mode": 1
+                },
+                "Radio Nacional Folklorica (98.7)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 98700000.0,
+                    "mode": 1
                 },
                 "Radio One": {
                     "bandwidth": 160000.0,
                     "frequency": 103700000.0,
                     "mode": 1
                 },
-                "Radio Porteña": {
+                "Radio Parque Vida / e2 (105.9)": {
                     "bandwidth": 160000.0,
-                    "frequency": 89500000.0,
-                    "mode": 1
-                },
-                "Radio RQP": {
-                    "bandwidth": 160000.0,
-                    "frequency": 97100000.0,
+                    "frequency": 105900000.0,
                     "mode": 1
                 },
                 "Radio Rivadavia": {
@@ -358,16 +368,6 @@
                     "frequency": 87900000.0,
                     "mode": 1
                 },
-                "Radio Uno": {
-                    "bandwidth": 160000.0,
-                    "frequency": 91100000.0,
-                    "mode": 1
-                },
-                "Radio e2": {
-                    "bandwidth": 160000.0,
-                    "frequency": 105900000.0,
-                    "mode": 1
-                },
                 "Red 92": {
                     "bandwidth": 160000.0,
                     "frequency": 92100000.0,
@@ -383,6 +383,11 @@
                     "frequency": 95900000.0,
                     "mode": 1
                 },
+                "Subteradio / Radio Joven (101.7)": {
+                    "bandwidth": 160000.0,
+                    "frequency": 101700000.0,
+                    "mode": 1
+                },
                 "Urbana Play": {
                     "bandwidth": 160000.0,
                     "frequency": 104300000.0,
@@ -393,7 +398,7 @@
                     "frequency": 97500000.0,
                     "mode": 1
                 },
-                "Vorterix": {
+                "Vorterix (92.1)": {
                     "bandwidth": 160000.0,
                     "frequency": 92100000.0,
                     "mode": 1

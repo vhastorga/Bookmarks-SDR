@@ -20,6 +20,7 @@ El objetivo del proyecto es **aportar y disponibilizar la radio SDR en esta zona
 - [Consideraciones legales](#-consideraciones-legales)
 - [Contribuir](#-contribuir)
 - [Licencia](#-licencia)
+- [Tomate un cafecito](#-tomate-un-cafecito)
 
 ---
 
@@ -201,3 +202,11 @@ Si encontrás una frecuencia desactualizada, ¡avisá abriendo un *Issue*!
 ## 📄 Licencia
 
 Se distribuye como **aporte comunitario** para la comunidad SDR argentina. Podés copiarlo, modificarlo y reutilizarlo libremente citando el origen de este repositorio.
+
+---
+
+## ☕ Tomate un cafecito
+
+Si este repositorio te sirvió, invitame a un cafecito ☕
+
+- **Ualá (alias):** `rakaraka`
